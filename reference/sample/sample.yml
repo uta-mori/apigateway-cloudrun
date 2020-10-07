@@ -14,7 +14,7 @@ paths:
       summary: Greet a user
       operationId: hello
       x-google-backend:
-        address: https://hello-ztn77q7jxa-uc.a.run.app
+        address: https://helloworld-ztn77q7jxa-de.a.run.app
       responses:
         '200':
           description: A successful response
